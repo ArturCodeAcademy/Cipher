@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cipher", "Cipher\Cipher.csproj", "{BEDE72E3-3C00-4D41-A35C-0348113FF6B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CipherLib", "CipherLib\CipherLib.csproj", "{38AE9423-4F95-4340-A00B-032D7847EA98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEDE72E3-3C00-4D41-A35C-0348113FF6B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEDE72E3-3C00-4D41-A35C-0348113FF6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEDE72E3-3C00-4D41-A35C-0348113FF6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEDE72E3-3C00-4D41-A35C-0348113FF6B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38AE9423-4F95-4340-A00B-032D7847EA98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AE9423-4F95-4340-A00B-032D7847EA98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38AE9423-4F95-4340-A00B-032D7847EA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38AE9423-4F95-4340-A00B-032D7847EA98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0124BF9B-81BC-460E-A9B0-0135896C8237}
+	EndGlobalSection
+EndGlobal
